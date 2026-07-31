@@ -1,0 +1,38 @@
+{
+  "best_model_name": "GradientBoosting",
+  "xgb_available": false,
+  "metrics": [
+    {
+      "Model": "GradientBoosting",
+      "Accuracy": 0.8,
+      "Precision": 0.816793893129771,
+      "Recall": 0.8916666666666667,
+      "F1 Score": 0.852589641434263,
+      "ROC-AUC": 0.8282051282051281
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.7837837837837838,
+      "Precision": 0.7985074626865671,
+      "Recall": 0.8916666666666667,
+      "F1 Score": 0.84251968503937,
+      "ROC-AUC": 0.8370512820512821
+    },
+    {
+      "Model": "Decision Tree",
+      "Accuracy": 0.7675675675675676,
+      "Precision": 0.7851851851851852,
+      "Recall": 0.8833333333333333,
+      "F1 Score": 0.8313725490196079,
+      "ROC-AUC": 0.6851923076923078
+    },
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.772972972972973,
+      "Precision": 0.825,
+      "Recall": 0.825,
+      "F1 Score": 0.825,
+      "ROC-AUC": 0.8115384615384618
+    }
+  ]
+}
